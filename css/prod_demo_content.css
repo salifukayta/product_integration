@@ -1,0 +1,123 @@
+#var_pass1{
+   color: #505050;
+    font-family: ColaborateLight;
+    font-size: 26px;
+    margin-left: 250px;
+    position: relative;
+}
+#hr_bg {
+    margin-left: -25px;
+    margin-top: -35px;
+    position: relative;
+    width: 848px;
+}
+#lorem_ipsum_demo{
+color: #5f7390;
+    font-family: collaborate;
+    font-size: 12px;
+    margin-left: 255px;
+    position: relative;
+    top: -50px;
+}
+#tab_demo_content{
+position: relative;
+    top: -60px;
+}
+#tab_flech1{
+color: gray;
+font-size: 12px;
+font-family: ColaborateLight;
+width: 400px;
+}
+#autre_bg_content{
+background:#edeeef;
+margin:0 auto;
+height:700px;
+width: 700px;
+}
+#img_boule{
+margin-left: 90px;
+    position: relative;
+    top: -50px;
+}
+
+#numbr{
+    color: #ffffff;
+    font-size: 25px;
+    margin-left: 135px;
+    position: relative;
+    margin-top: -118px;
+    width: 480px;
+}
+#var_pass2{
+   color: #505050;
+    font-family: ColaborateLight;
+    font-size: 26px;
+    margin-left: 100px;
+    position: relative;
+}
+#lorem_ipsum_demo1{
+ color: #5f7390;
+    font-family: collaborate;
+    font-size: 12px;
+    margin-left: 240px;
+    position: relative;
+    top: -50px;
+}
+#img_stop{
+ margin-left: 100px;
+    position: relative;
+}
+#img_play{
+margin-left: 60px;
+    position: relative;
+}
+#img_ii{
+margin-left: 60px;
+    position: relative;
+}
+#Play_now1{
+color: #505050;
+font-family: ColaborateLight;
+font-size: 25px;
+}
+#paragraph{
+color: #828181;
+font-family: ColaborateLight;
+font-size: 13px;
+}
+#var_pass3{
+   color: #505050;
+    font-family: ColaborateLight;
+    font-size: 26px;
+    position: relative;
+}
+#tab_flech2{
+ color: gray;
+    font-family: ColaborateLight;
+    font-size: 12px;
+    margin-left: 20px;
+   
+    position: relative;
+    width: 400px;
+}
+#buy_now{
+background-image: linear-gradient(#2c68be, #184387);
+    border: 0 none;
+    border-radius: 7px;
+    color: white;
+    font-size: 15px;
+    margin-left: 50px;
+    padding: 6px 22px;
+    position: relative;
+}
+#Download{
+background-image: linear-gradient(#604ea0, #463675);
+    border: 0 none;
+    border-radius: 7px;
+    color: white;
+    font-size: 15px;
+    margin-left: 20px;
+    padding: 6px 22px;
+    position: relative;
+}

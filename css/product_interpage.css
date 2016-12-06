@@ -1,0 +1,117 @@
+#Dublin1 {
+    color: #505050;
+    font-family: ColaborateLight;
+    font-size: 25px;
+    position: relative;
+	text-align: center;
+   
+}
+
+#hr_bg {
+    margin-left: -25px;
+    margin-top: -35px;
+    position: relative;
+    width: 848px;
+}
+#styl_lorem1 {
+    color: #5f7390;
+    font-family: ColaborateLight;
+    margin-top: -40px;
+    position: relative;
+    text-align: center;
+}
+#tab_contentbg{
+width:1000px;
+}
+#Dublin2 {
+    color: #505050;
+    font-family: ColaborateLight;
+    font-size: 25px;
+   
+}
+#text1 {
+    color: #828181;
+    font-family: ColaborateLight;
+   
+}
+.ecret1 {
+    color: #828181;
+    font-family: ColaborateLight;
+    font-size: 17px;
+}
+#tab_flech1{
+ margin-left: 15px;
+    position: relative;
+}
+#img_ipad1{
+ height: 300px;
+    margin-top: -280px;
+    position: relative;
+    width: 300px;
+}
+#img_ipad2{
+   margin-top: 100px;
+    position: relative;
+    width: 300px;
+}
+#img_ipad3{
+ margin-left: 500px;
+    margin-top: -230px;
+    position: relative;
+    width: 300px;
+}
+#logo{
+margin-left: 330px;
+    margin-top: -250px;
+    position: relative;
+	width: 50px;
+}
+#dublin_logo{
+color: #ffffff;
+    font-family: Times New Roman;
+    font-size: 28px;
+    margin-left: 360px;
+    margin-top: -227px;
+    position: relative;
+}
+#ipad_logo{
+ color: #ffffff;
+    font-family: "calibri",Garamond,"Comic Sans";
+    margin-left: 360px;
+    margin-top: -30px;
+    position: relative;
+}
+#cercle{
+ margin-left: 500px;
+    margin-top: -120px;
+    position: relative;
+}
+#montant{
+ color: #ffffff;
+    font-family: Times New Roman;
+    font-size: 28px;
+    margin-left: 560px;
+    margin-top: -140px;
+    position: relative;
+}
+#offre{
+ color: #ffffff;
+    font-family: "calibri",Garamond,"Comic Sans";
+    margin-left: 540px;
+    margin-top: -40px;
+    position: relative;
+}
+
+#buy_now {
+    background-color: #2b67bb;
+    border-color: #2b67bb;
+    border-radius: 7px;
+    color: white;
+    
+    font-size: 15px;
+    padding: 3px 10px;
+    position: relative;
+}
+#tab_mont{
+
+}

@@ -1,0 +1,140 @@
+#Dublin1 {
+    color: #505050;
+    font-family: ColaborateLight;
+    font-size: 22px;
+    position: relative;
+}
+#styl_lorem1 {
+    color: #5f7390;
+    font-family: ColaborateLight;
+    position: relative;
+	font-size: 12px;
+}
+#parag11{
+color: #828181;
+    font-family: ColaborateLight;
+	font-size: 14px;
+}
+.ecret1{
+    color: #828181;
+    font-family: ColaborateLight;
+	font-size: 12px;
+}
+
+.phot_iphon1 {
+    border-radius: 7px;
+    height: 80px;
+    position: relative;
+  
+}
+.styl_iphone{
+  color: #505050;
+    font-family: ColaborateLight;
+    font-size: 18px;
+  
+}
+.but_rmore_iphone{
+  background-color: #454559;
+    border-color: #454559;
+    border-radius: 7px;
+    color: white;
+    font-size: 13px;
+    padding: 3px 5px;
+    
+}
+#cont1{
+width:600px;
+
+}
+#cont2{
+width:220px;
+ background: linear-gradient(to bottom left,#e7e8ea , #dedfe1);
+}
+
+#dub_iphon{
+font-family: ColaborateLight;
+color:#505050;
+font-size: 20px;
+}
+#dat{
+
+ color: #5f7390;
+    font-family: Arial;
+    font-size: 12px;
+    margin-top: -10px;
+    position: relative;
+}
+#paragraphe{
+   color: #828181;
+    font-family: ColaborateLight;
+    font-size: 15px;
+    
+}
+#butread_mor{
+   background-color: #2257a3;
+    border-color: #2257a3;
+    border-radius: 7px;
+    color: white;
+    float: right;
+    font-size: 15px;
+    padding: 3px 10px;
+    position: relative;
+}
+#tabl_phot_ecreture{
+margin-top: -100px;
+    position: relative;}
+#grand_tab{
+ margin-top: -10px;
+    position: relative;
+}
+#hr_bg{
+margin-left: -25px;
+    margin-top: -35px;
+    position: relative;
+    width: 848px;
+}
+.ecretur{
+color: #828181;
+    font-family: ColaborateLight;
+    font-size: 17px;
+}
+.Slidebar{
+color: #505050;
+    font-family: ColaborateLight;
+    font-size: 25px;
+}
+.blanc{
+ background-color: #edeeef;
+    height: 120px;
+    margin: 0 auto;
+    width: 193px;
+}
+.advertis{
+color: #828181;
+    font-family: ColaborateLight;
+    font-size: 18px;
+	text-align: center;
+}
+#first{
+  background-color: #5d5d74;
+    border-color: #5d5d74;
+    border-radius: 7px;
+    color: white;
+    float: right;
+    font-size: 15px;
+    padding: 3px 10px;
+    position: relative;
+}
+#but_numb{
+  background-color: #5d5d74;
+    border-color: #5d5d74;
+    border-radius: 7px;
+    color: white;
+    float: right;
+    font-size: 15px;
+    padding: 3px 5px;
+    position: relative;
+}
+#tab_numbre{
+margin: 0 auto;
+}

@@ -1,0 +1,164 @@
+div.bg{
+ background-color: #e7e8ea;
+    height: 800px;
+    margin: 0 auto;
+    width: 800px;
+padding: 5px 26px;
+border-radius: 7px;
+}
+.entet_bg{
+     background-color: #d8d9db;
+    height: 100px;
+    margin: 0 0 0 -26px;
+    position: relative;
+    top: -35px;
+    width: 852px;
+   border-top-left-radius: 7px;
+border-top-right-radius: 7px;
+}
+#hr_bg {
+    margin-left: -25px;
+    margin-top: -35px;
+    position: relative;
+    width: 848px;
+}
+#search{
+background-image: url("../photo/search.png");
+    background-position: 5% 50%;
+    background-repeat: no-repeat;
+    background-size: 20px auto;
+    border-radius: 15px;
+    height: 28px;
+    margin-left: 550px;
+    padding-left: 40px;
+    position: absolute;
+    top: 40px;
+    width: 220px;
+}
+ul{
+list-style: none;
+}
+#Dublin{
+position: relative;
+top: 25px;
+ color:#505050;
+ font-family:ColaborateLight;
+ font-size:25px;
+ }
+#styl_lorem{
+position: relative;
+    top: -35px;
+	color:#5f7390;
+ font-family:ColaborateLight;
+}
+div.body_content{
+height: 900px;
+}
+#tab_icon{
+width: 800px;
+
+}
+#imag_viewr{
+position: relative;
+margin-left: 10px;
+color:#6b6b6c;
+font-family:ColaborateLight;
+ font-size:24px;
+
+}
+#lorem_ipsum11{
+color: #5f7390;
+    font-family: Arial;
+    font-size: 12px;
+    position: relative;
+	 margin-left: 10px;
+    top: -50px;
+}
+#bu_read_more{
+background-image: linear-gradient(#2b69be, #174384);
+    border: 0 none;
+    border-radius: 7px;
+    color: white;
+    font-size: 15px;
+    margin-left: 10px;
+    padding: 8px 25px;
+    position: relative;
+    top: -55px;
+   
+}
+#most_pop{
+margin-left: 60px;
+    position: relative;
+    top: -39px;
+	background-image: url("../photo/most_pop.png");
+    border: 0 none;
+    border-top-left-radius: 7px;
+    border-top-right-radius: 7px;
+    color: white;
+    font-family: colaborate-regular;
+    height: 30px;
+    width: 120px;
+}
+#recent{
+position: relative;
+top: -38px;
+background-image: url("../photo/recent.png");
+    border: 0 none;
+    border-top-left-radius: 7px;
+    border-top-right-radius: 7px;
+    color: white;
+    font-family: colaborate-regular;
+    height: 30px;
+    width: 105px;
+}
+
+#hr_img{
+margin-left: 60px;
+    position: relative;
+    width: 750px;
+
+}
+#tab_iphon_app{
+margin-left: 55px;
+    position: relative;
+    width: 800px;
+}
+.phot_iphon{
+  border-radius: 7px;
+    height: 80px;
+    position: relative;
+    top: 20px;
+}
+.iphone_apps_har{
+ color: #505050;
+    font-family: ColaborateLight;
+    font-size: 18px;
+    margin-left: 120px;
+    position: relative;
+    top: -60px;
+}
+.lorem_iphone_app{
+ color: #5f7390;
+    font-family: Arial;
+    font-size:9px;
+    margin-left: 120px;
+    position: relative;
+    top: -60px;
+}
+.but_rm_iphon{
+background-color: #454559;
+    border-color: #454559;
+    border-radius: 7px;
+    color: white;
+    font-size: 13px;
+    margin-left: 120px;
+    padding: 3px 7px;
+    position: relative;
+    top: -45px;
+}
+.tst{
+background-image: url("../photo/most_pop.png");
+border-top-left-radius: 7px;
+    border-top-right-radius: 7px;
+	color: white;
+}

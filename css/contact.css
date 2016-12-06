@@ -1,0 +1,44 @@
+#input11 {
+ background-color: #eff1f4;
+    border: 0 solid;
+    border-radius: 5px;
+    color: #a9aaaa;
+    padding: 5px;
+    width: 250px;
+	 height: 30px;
+}
+#input12 {
+ background-color: #eff1f4;
+    border: 0 solid;
+    border-radius: 5px;
+    color: #a9aaaa;
+    padding: 5px;
+    width: 250px;
+	height: 100px;
+}
+
+#ligne_vertic{
+height: 280px;
+color:#d7d6d7;
+}
+#tab_input{
+ margin-top: -180px;
+ position: relative;
+}
+#Submit_bt {
+background-image: linear-gradient(#2d6bc2, #174384);
+    border: 0 none;
+    border-radius: 7px;
+    color: white;
+    float: right;
+    font-size: 15px;
+    padding: 5px 28px;
+    position: relative;
+}
+#googleMap{
+height: 300px;
+    margin-left: 50px;
+    margin-top: 200px;
+    position: relative;
+    width: 300px;
+}

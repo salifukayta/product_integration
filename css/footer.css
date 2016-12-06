@@ -1,0 +1,89 @@
+div.width_footr{
+width: 1200px;
+height:340px;
+margin: 0 auto;
+
+}
+#tab_foot{
+    margin: 0 120px;
+	width:1050px;
+}
+td.size{
+font-size:13px;
+color:#a4a4ac;
+font-family:Contra;
+
+}
+td.margin{
+font-family: contra italic;
+color:#c3c3c8;
+font-style:italic;
+ position: relative;
+}
+#tab_ft2{
+    margin: 0 150px;
+    width: 1000px;
+}
+#newsltr{
+font-family: ColaborateLight;
+    font-size: 25px;
+	color:#ffffff;
+}
+#styl_lor{
+font-size:13px;
+color:#b7b7bb;
+font-family:ColaborateLight;
+}
+#cntact_form{
+color: #ffffff;
+    font-family: ColaborateLight;
+    font-size: 25px;
+    width: 300px;
+}
+
+#input{
+padding:5px; 
+border:solid 0px ;
+border-radius:5px;
+width:200;
+background-color:#242439;
+color: #5e5e6a;
+}
+#input1{
+padding:5px; 
+border:solid 0px ;
+border-radius:5px;
+width:200;
+height:100px;
+background-color:#242439;
+color: #5e5e6a;
+}
+#enter_your_email{
+padding:5px;
+ border:solid 0px ;
+ border-radius:5px;
+ width:200;
+ color: #5e5e6a;
+ background-color:#242439;
+font-family: colaborateLight;
+}
+#Subscribe{
+padding:5px 20px;
+border-radius:9px;
+background-color: #e7e8ea;
+font-family: colaboratelight;
+
+}
+#Submit{
+padding:5px 20px;
+border-radius:9px;
+background-color: #e7e8ea;
+position: relative;
+float:right;
+font-family: colaboratelight;
+}
+#Design_by{
+color:#b7b7bc;
+font-size:14px;
+font-family: ColaborateLight;
+}

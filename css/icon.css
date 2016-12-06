@@ -1,0 +1,164 @@
+#icon{
+height:300px;
+margin: 0 auto;
+width: 1000px;
+}
+#e{
+position: relative;
+margin-left: 50px;
+color:#8c8c92;
+top: -40px;
+font-family: Calibri;
+}
+#ebook{
+position: relative;
+margin-left: 50px;
+color:#8c8c92;
+top: -50px;
+font-family: Calibri;
+}
+#imageviewr{
+position: relative;
+margin-left: 50px;
+color:#8c8c92;
+top: -50px;
+font-family: Calibri;
+
+}
+#media{
+position: relative;
+margin-left: 60px;
+color:#8c8c92;
+top: -50px;
+font-family: Calibri;
+
+}
+#leo{
+position: relative;
+margin-left: 50px;
+color:#8c8c92;
+top: -50px;
+font-family: Calibri;
+
+}
+#div_Loremipsom{
+height:300px;
+width:1000px;
+margin: -70 auto;
+
+}
+#table_discover{
+width:240px;
+float:left;
+margin: 5px;
+}
+#interrogation{
+
+}
+#discover_apps{
+position: relative;
+color: #505050;
+font-family:Arial;
+font-size: 19px;
+top:10px;
+}
+#lorem_ipsum{
+position: relative;
+font-family:Arial;
+font-size: 12px;
+color: #5f7390;
+top:-8px;
+}
+#Ipsum_dummy{
+position: relative;
+color: #505050;
+width: 270px;
+font-family: Arial;
+    font-size: 12px;
+}
+
+ul{
+list-style: none;
+}
+#ipsum_issimply{
+color: #9a999a;
+    margin-left: 180px;
+    position: relative;
+    top: -75px;
+}
+#leftarrow{
+height: 65px;
+    margin-left: 80px;
+    position: relative;
+    top: -142px;
+}
+#rightarrow{
+  float: right;
+    height: 40px;
+    margin-right: 90px;
+    position: relative;
+    top: -120px;
+}
+#var_pass{
+    color: #505050;
+    font-family: ColaborateLight;
+    font-size: 20px;
+    margin-left: 250px;
+    position: relative;
+    top: -120px;
+}
+#lorem_ipsum2{
+  color: #5f7390;
+    font-family: collaborate;
+    font-size: 12px;
+    margin-left: 253px;
+    position: relative;
+    top: -140px;
+}
+#ipad2{
+    position: relative;
+    top: -150px;
+}
+#tab_flech{
+color: gray;
+    font-size: 13px;
+    margin-left: 400px;
+    position: relative;
+    top: -350px;
+	font-family: ColaborateLight;
+}
+#tab_lign{
+width:800px;
+ position: relative;
+    top: -270px;
+	font-family: ColaborateLight;
+}
+#td_lign_plus{
+border-top:1px solid #c5c5c7;
+height: 30px;
+color: gray;
+font-size: 14px;
+
+}
+#butt2_read_mor{
+ background-image: linear-gradient(#2d6bc2, #184588);
+    border: 0 none;
+    border-radius: 7px;
+    color: white;
+    font-size: 15px;
+    left: 430px;
+    padding: 5px 23px;
+    position: relative;
+    top: -320px;
+}
+#butt_download{
+background-image: linear-gradient(#2d6bc2, #184588);
+    border: 0 none;
+    border-radius: 7px;
+    color: white;
+    font-size: 15px;
+    left: 460px;
+    padding: 5px 23px;
+    position: relative;
+    top: -320px;
+}
